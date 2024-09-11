@@ -17,7 +17,7 @@
 <a href="https://github.com/elymsyr" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
-I'm a Computer Science graduate with expertise in machine learning, computer vision, data analysis, and web scraping, experienced in a range of technologies such as TensorFlow, Docker, MySQL, OpenCV, YOLO and Git, and I am currently expanding my skills in CI/CD practices and AWS. My thesis focused on training models in 3D environments using reinforcement learning. Currently, expanding my knowledge in Continuous Integration and Continuous Delivery (CI/CD) practices and Amazon Web Services (AWS). 
+I'm a Computer Science graduate with expertise in machine learning, computer vision, data analysis, and web scraping, experienced in a range of technologies such as TensorFlow, Docker, MySQL, OpenCV, YOLO and Git. My thesis focused on training models in 3D environments using reinforcement learning. Currently, expanding my knowledge in Continuous Integration and Continuous Delivery (CI/CD) practices and Amazon Web Services (AWS). 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=elymsyr&&show_icons=false&title_color=ffffff&text_color=daf7dc&bg_color=0d1117)<br>
 
