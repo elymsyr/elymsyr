@@ -1,6 +1,7 @@
 <p align="center">
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/orhuneren/">Orhun</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/orhuneren/">Orhun</a></b>.<br>
+    BSc Computer Engineering at Cukurova University | BSc Computer Science at Zachodniopomorski Uniwersytet Technologiczny
 <br><br>
   </samp>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNrcmZ2aGN4ajFjbzhib2o2ZjlhbWsydW83cGlrb3UyZTI1amxqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mzsFhNmHeVGtbweqMp/giphy.webp" width="200"/>
