@@ -6,14 +6,4 @@ BSc Computer Engineering at Cukurova University | BSc Computer Science at Zachod
 <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNrcmZ2aGN4ajFjbzhib2o2ZjlhbWsydW83cGlrb3UyZTI1amxqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mzsFhNmHeVGtbweqMp/giphy.webp" width="200"/>
 </samp>
 
-<h1 align="center">Hi 👋, I'm elymsyr</h1>
-
-## 🔥 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elymsyr&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=elymsyr&layout=compact&theme=radical)
-
-## 🌟 Social Stats
-
-![GitHub stars](https://img.shields.io/github/stars/elymsyr?style=social)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elymsyr&show_icons=true&count_private=false)
